@@ -47,6 +47,10 @@ After moving the mouse to the desired location where you want to add a citation,
 
 Please edit the config.ini file to set the parameters.
 
+该脚本会将trilium note的内容先转化为mardown，用Better BibTeX for Zotero提供的zotero.lua进行zotero引用处理，最后导出为docx格式
+
+This script converts the content of Trilium notes to Markdown, applies Zotero citation processing using the zotero.lua provided by Better BibTeX for Zotero, and finally exports it to the docx format.
+
 ``` bash
 python export.py trilium_id
 ```
@@ -63,5 +67,5 @@ python export.py trilium_id
 - make it more user-friendly
 
 # Update log
-2023.11.22 initial the project
-2023.11.30 add export
+- 2023.11.22 initial the project
+- 2023.11.30 add export
