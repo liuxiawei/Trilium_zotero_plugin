@@ -20,7 +20,7 @@ After moving the mouse to the desired location where you want to add a citation,
 **该插件依赖Better BibTeX for Zotero，请参考[安装指南](https://retorque.re/zotero-better-bibtex/installation/index.html)进行安装**
 
 
-创建一个类型为JS frontend类型的trillium note，将add_zotero_cite.js的内容作为note 的内容，然后重新启动trillium
+创建一个类型为JS frontend类型的trillium note，将add_zotero_cite.js的内容作为note 的内容，然后重新启动trillium.
 
 **This plugin depends on Better BibTeX for Zotero. Please refer to [this link](https://retorque.re/zotero-better-bibtex/installation/index.html) for installation instructions.**
 
@@ -36,6 +36,21 @@ After moving the mouse to the desired location where you want to add a citation,
 
 6.Restart Trillium to ensure the changes take effect.
 
+# Export
+
+**Export依赖trilium-py，请参考[安装指南](https://github.com/Nriver/trilium-py#-installation)进行安装**
+
+**Export depends on  trilium-py，Please refer to [this link](https://github.com/Nriver/trilium-py#-installation)for installation instructions.**
+
+
+请编辑config.ini文件设置参数。
+
+Please edit the config.ini file to set the parameters.
+
+``` bash
+python export.py trilium_id
+```
+
 
 # Problem known
 
@@ -45,7 +60,8 @@ After moving the mouse to the desired location where you want to add a citation,
 - Lack of testing for special content: 缺乏对特殊内容的测试
 
 # todo
-- add export
 - make it more user-friendly
 
-
+# Update log
+2023.11.22 initial the project
+2023.11.30 add export
