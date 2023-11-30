@@ -2,7 +2,7 @@
 
 在Trillium中使用Zotero插入引用文献！
 
-Make it passable to cite documen in trillium from zetore!
+Make it passable to cite documen in trillium from Zotero!
 
 ![Alt text](image.png)
 
