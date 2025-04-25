@@ -1,5 +1,7 @@
 # Trillium Zotero
 
+[English](README.md) | [中文](README.zh.md)
+
 Make it passable to cite documen in trillium from Zotero!
 
 ![Alt text](image.png)

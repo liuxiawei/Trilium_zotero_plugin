@@ -1,5 +1,7 @@
 # Trillium Zotero
 
+[English](README.md) | [中文](README.zh.md)
+
 让在 Trillium 中引用 Zotero 文档成为可能！
 
 ![Alt text](image.png)
