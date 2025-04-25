@@ -1,5 +1,3 @@
-好的，这是将您提供的 Markdown 翻译成中文的结果：
-
 # Trillium Zotero
 
 让在 Trillium 中引用 Zotero 文档成为可能！
