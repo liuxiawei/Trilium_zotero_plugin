@@ -48,6 +48,6 @@ python export.py trilium_id
 
 ## Update log
 
-- 2025.04-25 add support for bibliography generation
+- 2025.04.25 add support for bibliography generation
 - 2023.11.22 initial the project
 - 2023.11.30 add export
